@@ -25,9 +25,9 @@ Styles:: Actuator, JPA, Rest Repositories, Web
 Type:: Gradle project
 
 +
-Then click +Generate+. This will result in a file called +starter.zip+ being downloaded to your workstation.
+Then click +Generate+. This will result in a file called +cities.zip+ being downloaded to your workstation.
 
-. Create a directory to house your code, and into that directory unzip +starter.zip+.
+. Create a directory to house your code, and into that directory unzip +cities.zip+.
 
 . Optionally generate project files for your favorite IDE by running +gradle idea+ or +gradle eclipse+. Then open the project in your editor or IDE of choice.
 
